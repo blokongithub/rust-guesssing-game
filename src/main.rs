@@ -1,6 +1,6 @@
 use std::cmp::max;
 use std::io::{stdin,stdout,Write};
-use rand::Rng;
+use rand::Rng; //test
 
 fn main() {
     println!("Hello, world!");
